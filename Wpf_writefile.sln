@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf_writefile", "Wpf_writefile\Wpf_writefile.csproj", "{26FBADA0-F828-470D-AFED-2894E0BC955A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs_write1", "cs_write1\cs_write1.csproj", "{6EE039A3-0A23-4366-80DB-250E5D7D625B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{26FBADA0-F828-470D-AFED-2894E0BC955A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26FBADA0-F828-470D-AFED-2894E0BC955A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26FBADA0-F828-470D-AFED-2894E0BC955A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EE039A3-0A23-4366-80DB-250E5D7D625B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EE039A3-0A23-4366-80DB-250E5D7D625B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EE039A3-0A23-4366-80DB-250E5D7D625B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EE039A3-0A23-4366-80DB-250E5D7D625B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
